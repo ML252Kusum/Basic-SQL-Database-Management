@@ -33,7 +33,9 @@ Query: CREATE TABLE CUSTOMERS (customer_id int primary key,customer_name varchar
 
 HENCE CUSTOMERS TABLE IS CREATED YOU CAN SEE YOUR TABLE BY USING FOLLOWING QUERY::
 
-select*from customers;  #This query is used to see our table, initially as data is not given so our table's rows shows null values.
+QUERY: SELECT* FROM CUSTOMERS;
+
+#This query is used to see our table, initially as data is not given so our table's rows shows null values.
 
 Similarly you can create more tables as per your needs!!
 
@@ -86,7 +88,7 @@ QUERY: DROP TABLE CUSTOMERS;
 
 HENCE YOUR CUSTOMERS TABLE GETS DROPPED SUCCESSFULLY!!
 
-# HENCE IN THIS WAY YOU CAN PERFORM A BASIC DATABASE MANAGEMENT USING SQL.
+HENCE IN THIS WAY YOU CAN PERFORM A BASIC DATABASE MANAGEMENT USING SQL.
 
 # Contributing
 Contributions are welcome! If you find any issues or want to add new examples, please feel free to open an issue or submit a pull request.
